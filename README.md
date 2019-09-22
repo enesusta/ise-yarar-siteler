@@ -14,6 +14,7 @@
 2. [Kodlama ogrenmek icin acik kaynaklar](https://docs.google.com/document/d/1b1Q4nq_11kA1JCyMWI0LWfNGPmNZsXUpXDbKa5ZqQwM/edit)
 3. [Frontend checklist](https://github.com/eraycetinay/Front-End-Checklist)
 4. [Turkce kaynaklar](http://turkcekaynaklar.com/)
+5. [Free PDF](http://freecomputerbooks.com/)
 
 ## WEB
 1. [CSS TRICKS](https://css-tricks.com/)
@@ -29,6 +30,7 @@
 ## Tool
 
 1.[Online photoshop](https://www.freephototool.com/)
+2.[Compiler Background Explorer](https://godbolt.org/)
 
 ## Icons & Fonts
 
@@ -96,3 +98,4 @@
 
 1. [-](http://patorjk.com/software/taag/#p=display&h=1&v=1&f=Efti%20Font&t=Enes%20Usta)
 2. [CarbonSh](https://carbon.now.sh/)
+3. [Virtual Piano](https://virtualpiano.net/)
