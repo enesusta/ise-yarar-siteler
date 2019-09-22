@@ -2,6 +2,17 @@
 
 1. [Bunu okuyun](http://www.belgeler.org/lis/archive-tlkg-lis.html)
 
+## Education
+
+1. [MIT](https://ocw.mit.edu/index.htm)
+2. [Deutsch.info](https://deutsch.info/tr)
+3. [Udacity](https://www.udacity.com/courses/school-of-data-science)
+4. [Coursera](https://www.coursera.org/)
+5. [Code.org](https://code.org/)
+6. [Learnwebcode](https://learnwebcode.com/)
+7. [Codeacademy](https://www.codecademy.com/)
+8. [Bilge is](https://bilgeis.net/#/)
+9. [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50)
 
 ## WEB
 1. [CSS TRICKS](https://css-tricks.com/)
@@ -38,3 +49,8 @@
 
 1. [Ubuntu pastebin](https://paste.ubuntu.com/)
 2. [PASTECODE](https://pastecode.xyz/)
+3. [Throwbin](https://throwbin.io/0HdLbZU)
+
+## Deployment for MySQL
+
+1. [Free Mysql Host](https://remotemysql.com/)
