@@ -4,6 +4,9 @@
 ## Linux
 
 1. [Bunu okuyun](http://www.belgeler.org/lis/archive-tlkg-lis.html)
+2. [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
+3. [VPN Server on RaspberryPie](https://www.youtube.com/watch?v=15VjDVCISj0)
+4. [Complete Linux Course](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
 
 ## Toplu kaynaklar
 
@@ -34,6 +37,8 @@
 3. [Font library](https://fontlibrary.org/)
 4. [FREEPIK](https://www.freepik.com/popular-icons)
 5. [Feathericons](https://feathericons.com/)
+6. [Free Icons](https://game-icons.net/)
+7. [SVG Icons](https://www.flaticon.com/)
 
 ## Color
 
@@ -75,15 +80,16 @@
 
 ## Education
 
-1. [MIT](https://ocw.mit.edu/index.htm)
-2. [Deutsch.info](https://deutsch.info/tr)
-3. [Udacity](https://www.udacity.com/courses/school-of-data-science)
-4. [Coursera](https://www.coursera.org/)
-5. [Code.org](https://code.org/)
-6. [Learnwebcode](https://learnwebcode.com/)
-7. [Codeacademy](https://www.codecademy.com/)
-8. [Bilge is](https://bilgeis.net/#/)
-9. [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50)
+1.  [MIT](https://ocw.mit.edu/index.htm)
+2.  [Deutsch.info](https://deutsch.info/tr)
+3.  [Udacity](https://www.udacity.com/courses/school-of-data-science)
+4.  [Coursera](https://www.coursera.org/)
+5.  [Code.org](https://code.org/)
+6.  [Learnwebcode](https://learnwebcode.com/)
+7.  [Codeacademy](https://www.codecademy.com/)
+8.  [Bilge is](https://bilgeis.net/#/)
+9.  [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50)
+10. [DataStructures and Algorithym Questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 
 ## Gereksiz ama eglenceli
