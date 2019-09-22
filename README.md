@@ -37,7 +37,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 10. [FreeCodingTutorials](https://bento.io/home)
 11. [Complete Web Development](https://www.freecodecamp.org/)
 
-## Guncel Teknoloji Rehberi
+## Programming Tips&Tricks
 
 1. [Medium](https://medium.com/)
 2. [Hackr.io](https://hackr.io/)
@@ -105,7 +105,6 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 3. [10 Parmak Yazmak](https://www.typing.com/student/lessons)
 4. [LeetCode](https://leetcode.com)
 5. [WWW](https://www.w3schools.com)
-6. []
 
 ## Education
 
