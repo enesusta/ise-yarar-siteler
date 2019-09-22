@@ -20,6 +20,26 @@
 9. [HTMLCSSJS](https://html-css-js.com/)
 10. [Freefrontend](https://freefrontend.com/css-menu/)
 
+## Tool
+
+1.[Online photoshop](https://www.freephototool.com/)
+
+## Icons & Fonts
+
+1. [FONTAWESOME](https://fontawesome.com/)
+2. [ICONS8](https://icons8.com/) Epey iyi bu
+3. [Font library](https://fontlibrary.org/)
+4. [FREEPIK](https://www.freepik.com/popular-icons)
+5. [Feathericons](https://feathericons.com/)
+
+## Color
+
+1. [Color#1](https://flatuicolors.com/)
+2. [Color#2](https://www.colourlovers.com/palettes)
+3. [Incele](https://www.bugrayazar.com/renk-uyum-siteleri/)
+4. [En iyisi bu](https://coolors.co/2eb6f0-f6511d-ffb400-7fb800-0d2c54)
+5. [Hex to RGB](https://www.rgbtohex.net/hextorgb/)
+
 
 ## Web Templates
 
@@ -30,20 +50,14 @@
 
 1. [ROUTERFREAK](http://www.routerfreak.com/best-books-network-engineers/)
 
-
+## Regex
+1. [Regex101](https://regex101.com/)
 
 
 ## RDMS (Relational Database Management System)
 
 1. [SQLDBM](https://sqldbm.com/Home/) Online rdms tasarlayabiliyorsunuz.
 
-
-## Icons & Fonts
-
-1. [FONTAWESOME](https://fontawesome.com/)
-2. [ICONS8](https://icons8.com/) Epey iyi bu
-3. [Font library](https://fontlibrary.org/)
-4. [FREEPIK](https://www.freepik.com/popular-icons)
 
 ## Pastebin
 
@@ -72,3 +86,4 @@
 ## Gereksiz ama eglenceli
 
 1. [-](http://patorjk.com/software/taag/#p=display&h=1&v=1&f=Efti%20Font&t=Enes%20Usta)
+2. [CarbonSh](https://carbon.now.sh/)
