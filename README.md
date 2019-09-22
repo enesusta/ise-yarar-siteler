@@ -1,3 +1,8 @@
+## Misyon
+Rutin işlerin tamamlanması hususunda yardımcı olabilecek kaynakların eklenmesi.
+Destek olmak isterseniz, lütfen repoyu forklayıp pull request atınız.
+Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite/cQWcKcU)
+
 ## Linux
 
 1. [Bunu okuyun](http://www.belgeler.org/lis/archive-tlkg-lis.html)
@@ -22,7 +27,7 @@
 
 ## Tool
 
-1.[Online photoshop](https://www.freephototool.com/)
+1. [Online photoshop](https://www.freephototool.com/)
 
 ## Icons & Fonts
 
