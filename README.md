@@ -1,9 +1,11 @@
 ## Misyon
+
 Rutin işlerin tamamlanması hususunda yardımcı olabilecek kaynakların eklenmesi.
 Destek olmak isterseniz, lütfen repoyu forklayıp pull request atınız.
 Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite/cQWcKcU)
 
 ## MD LANGUAGE
+
 1. [Markdown Ogren](https://www.markdowntutorial.com)
 
 ## Linux
@@ -22,20 +24,27 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 5. [Free PDF](http://freecomputerbooks.com/)
 
 ## WEB
-1. [CSS TRICKS](https://css-tricks.com/)
-2. [THEME WAGON](https://themewagon.com/theme_tag/free/)
-3. [PEXELS](https://www.pexels.com/)
-4. [CSS GRADIENT](https://cssgradient.io/)
-5. [COOLORS](https://coolors.co/)
-6. [AUTOPREFIXER](https://autoprefixer.github.io/)
-7. [CAN I USE](https://caniuse.com/)
-9. [HTMLCSSJS](https://html-css-js.com/)
-10. [Freefrontend](https://freefrontend.com/css-menu/)
+
+1.  [CSS TRICKS](https://css-tricks.com/)
+2.  [THEME WAGON](https://themewagon.com/theme_tag/free/)
+3.  [PEXELS](https://www.pexels.com/)
+4.  [CSS GRADIENT](https://cssgradient.io/)
+5.  [COOLORS](https://coolors.co/)
+6.  [AUTOPREFIXER](https://autoprefixer.github.io/)
+7.  [CAN I USE](https://caniuse.com/)
+8.  [HTMLCSSJS](https://html-css-js.com/)
+9.  [Freefrontend](https://freefrontend.com/css-menu/)
+10. [FreeCodingTutorials](https://bento.io/home)
+11. [Complete Web Development](https://www.freecodecamp.org/)
+
+## Guncel Teknoloji Rehberi
+
+1. [Medium](https://medium.com/)
+2. [Hackr.io](https://hackr.io/)
 
 ## Tool
 
-1.[Online photoshop](https://www.freephototool.com/)
-2.[Compiler Background Explorer](https://godbolt.org/)
+1.[Online photoshop](https://www.freephototool.com/) 2.[Compiler Background Explorer](https://godbolt.org/)
 
 ## Icons & Fonts
 
@@ -55,24 +64,25 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 4. [En iyisi bu](https://coolors.co/2eb6f0-f6511d-ffb400-7fb800-0d2c54)
 5. [Hex to RGB](https://www.rgbtohex.net/hextorgb/)
 
+## Sound
+
+1. [FreeSoundPacks](https://freesound.org)
 
 ## Web Templates
 
 1. [-](https://freshdesignweb.com/free-html5-css3-templates/)
-
 
 ## NETWORK
 
 1. [ROUTERFREAK](http://www.routerfreak.com/best-books-network-engineers/)
 
 ## Regex
-1. [Regex101](https://regex101.com/)
 
+1. [Regex101](https://regex101.com/)
 
 ## RDMS (Relational Database Management System)
 
 1. [SQLDBM](https://sqldbm.com/Home/) Online rdms tasarlayabiliyorsunuz.
-
 
 ## Pastebin
 
@@ -84,6 +94,18 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 
 1. [Free Mysql Host](https://remotemysql.com/)
 
+## Low-Level Graphics
+
+1. [ShaderLanguage](https://thebookofshaders.com)
+
+## Online Learning and Practice
+
+1. [Hackerrank](https://www.hackerrank.com/)
+2. [ProjectEuler](https://projecteuler.net/archives)
+3. [10 Parmak Yazmak](https://www.typing.com/student/lessons)
+4. [LeetCode](https://leetcode.com)
+5. [WWW](https://www.w3schools.com)
+6. []
 
 ## Education
 
@@ -97,10 +119,11 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 8.  [Bilge is](https://bilgeis.net/#/)
 9.  [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50)
 10. [DataStructures and Algorithym Questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
-
+11. [Advanced Level English Exercises](http://www.blairenglish.com/extras/exercise_menu.html)
 
 ## Gereksiz ama eglenceli
 
 1. [-](http://patorjk.com/software/taag/#p=display&h=1&v=1&f=Efti%20Font&t=Enes%20Usta)
 2. [CarbonSh](https://carbon.now.sh/)
 3. [Virtual Piano](https://virtualpiano.net/)
+4. [Feel Like Hacker](https://hackertyper.net/)
