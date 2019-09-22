@@ -44,7 +44,10 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 
 ## Tool
 
-1.[Online photoshop](https://www.freephototool.com/) 2.[Compiler Background Explorer](https://godbolt.org/)
+1. [Online photoshop](https://www.freephototool.com/)
+2. [Compiler Background Explorer](https://godbolt.org/)
+3. [Calculate Everything](https://www.calculator.net/)
+4. [Organizing Workflow](https://trello.com/home)
 
 ## Icons & Fonts
 
@@ -119,6 +122,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 9.  [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50)
 10. [DataStructures and Algorithym Questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 11. [Advanced Level English Exercises](http://www.blairenglish.com/extras/exercise_menu.html)
+12. [DataStructures and Algorithyms](https://www.programiz.com/dsa)
 
 ## Gereksiz ama eglenceli
 
