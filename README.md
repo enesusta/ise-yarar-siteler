@@ -4,7 +4,7 @@ Rutin işlerin tamamlanması hususunda yardımcı olabilecek kaynakların eklenm
 Destek olmak isterseniz, lütfen repoyu forklayıp pull request atınız.
 Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite/cQWcKcU)
 
-## MD LANGUAGE
+## MD Language
 
 1. [Markdown Ogren](https://www.markdowntutorial.com)
 
@@ -15,7 +15,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 3. [VPN Server on RaspberryPie](https://www.youtube.com/watch?v=15VjDVCISj0)
 4. [Complete Linux Course](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
 
-## Toplu kaynaklar
+## Toplu Kaynaklar
 
 1. [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 2. [Kodlama ogrenmek icin acik kaynaklar](https://docs.google.com/document/d/1b1Q4nq_11kA1JCyMWI0LWfNGPmNZsXUpXDbKa5ZqQwM/edit)
@@ -23,7 +23,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 4. [Turkce kaynaklar](http://turkcekaynaklar.com/)
 5. [Free PDF](http://freecomputerbooks.com/)
 
-## WEB
+## Web
 
 1.  [CSS TRICKS](https://css-tricks.com/)
 2.  [THEME WAGON](https://themewagon.com/theme_tag/free/)
@@ -42,12 +42,13 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 1. [Medium](https://medium.com/)
 2. [Hackr.io](https://hackr.io/)
 
-## Tool
+## Tools
 
 1. [Online photoshop](https://www.freephototool.com/)
 2. [Compiler Background Explorer](https://godbolt.org/)
 3. [Calculate Everything](https://www.calculator.net/)
 4. [Organizing Workflow](https://trello.com/home)
+5. [Online Code Editor For Web Apps](https://stackblitz.com)
 
 ## Icons & Fonts
 
@@ -75,7 +76,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 
 1. [-](https://freshdesignweb.com/free-html5-css3-templates/)
 
-## NETWORK
+## Network
 
 1. [ROUTERFREAK](http://www.routerfreak.com/best-books-network-engineers/)
 
@@ -85,7 +86,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 
 ## RDMS (Relational Database Management System)
 
-1. [SQLDBM](https://sqldbm.com/Home/) Online rdms tasarlayabiliyorsunuz.
+1. [SQLDBM](https://sqldbm.com/Home/) Online RDMS tasarlayabiliyorsunuz.
 
 ## Pastebin
 
@@ -123,6 +124,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 10. [DataStructures and Algorithym Questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 11. [Advanced Level English Exercises](http://www.blairenglish.com/extras/exercise_menu.html)
 12. [DataStructures and Algorithyms](https://www.programiz.com/dsa)
+13. [Online Tutorials For Eveything](https://www.tutorialspoint.com)
 
 ## Gereksiz ama eglenceli
 
@@ -130,3 +132,5 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 2. [CarbonSh](https://carbon.now.sh/)
 3. [Virtual Piano](https://virtualpiano.net/)
 4. [Feel Like Hacker](https://hackertyper.net/)
+5. [Solucan](https://slither.io)
+6. [Agar](https://agar.io)
