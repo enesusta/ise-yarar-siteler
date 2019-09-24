@@ -37,6 +37,22 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 10. [FreeCodingTutorials](https://bento.io/home)
 11. [Complete Web Development](https://www.freecodecamp.org/)
 
+## Java
+
+1. [Baeldung](https://www.baeldung.com/)
+2. [Mkyong](https://www.mkyong.com/)
+3. [Javarevisited](https://javarevisited.blogspot.com)
+4. [Interview #1](https://www.edureka.co/blog/interview-questions/java-interview-questions/?utm_source=facebook&utm_medium=crossposting&utm_campaign=social-media-aug-030818-pp)
+5. [JVM / JIT Nasil calisir?](http://www.pratikprogramci.com/2016/05/14/jvm-nasil-calisir-yazi-serisi-java-just-in-time-compiler-jit-nasil-calisir/)
+6. [IBM](https://www.ibm.com/developerworks/java/library/)
+7. [Java8 #1](http://devnot.com/2017/java-8-hakkinda-bilmeniz-gerekenler/)
+8. [Java7 #1](https://www.concretepage.com/java/jdk7/)
+9. [Java Turkce Blog #1](https://malikmasis.blogspot.com/2014/)
+10. [Java Turkce Blog #2](https://ufukuzun.wordpress.com/category/java/S)
+11. [Java Turkce Blog #3](https://oguzhaninan.gitlab.io/)
+12. [Java Turkce Blog #4](https://gunceljava.blogspot.com/)
+13. [Java Turkce Blog #5](https://medium.com/gokhanyavas/nesne-tabanl%C4%B1-programlama-1-oop-c35efe823c2c)
+
 ## Programming Tips&Tricks
 
 1. [Medium](https://medium.com/)
