@@ -141,6 +141,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 11. [Advanced Level English Exercises](http://www.blairenglish.com/extras/exercise_menu.html)
 12. [DataStructures and Algorithyms](https://www.programiz.com/dsa)
 13. [Online Tutorials For Eveything](https://www.tutorialspoint.com)
+14. [Foreign Language Education](https://tr.duolingo.com/)
 
 ## Gereksiz ama eglenceli
 
