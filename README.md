@@ -22,6 +22,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 3. [Frontend checklist](https://github.com/eraycetinay/Front-End-Checklist)
 4. [Turkce kaynaklar](http://turkcekaynaklar.com/)
 5. [Free PDF](http://freecomputerbooks.com/)
+6. [Free Books](https://goalkicker.com/)
 
 ## Web
 
@@ -36,6 +37,10 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 9.  [Freefrontend](https://freefrontend.com/css-menu/)
 10. [FreeCodingTutorials](https://bento.io/home)
 11. [Complete Web Development](https://www.freecodecamp.org/)
+12. [Free Themes for Bootstrap](https://bootswatch.com/)
+13. [Less](http://lesscss.org/)
+14. [Top 50 Articles about CSS](https://medium.mybridge.co/learn-css-from-top-50-articles-for-the-past-year-v-2019-4570d9da53c)
+15. [CSS Top 10 Articles](https://techburst.io/css-top-10-articles-july-2018-cac669c26411)
 
 ## Java
 
