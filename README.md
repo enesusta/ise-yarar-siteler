@@ -24,6 +24,10 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 5. [Free PDF](http://freecomputerbooks.com/)
 6. [Free Books](https://goalkicker.com/)
 
+## Software Craftsmanship
+1. [Every Engineer have to read](https://www.java67.com/2015/03/10-books-every-programmer-and-software-engineer-read.html)
+
+
 ## Web
 
 1.  [CSS TRICKS](https://css-tricks.com/)
