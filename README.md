@@ -1,3 +1,5 @@
+www.enesusta.tech
+
 ## Misyon
 
 Rutin işlerin tamamlanması hususunda yardımcı olabilecek kaynakların eklenmesi.
@@ -23,6 +25,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 4. [Turkce kaynaklar](http://turkcekaynaklar.com/)
 5. [Free PDF](http://freecomputerbooks.com/)
 6. [Free Books](https://goalkicker.com/)
+7. [Top Differences Tutorial](https://www.educba.com/node-js-vs-asp-net/)
 
 ## Software Craftsmanship
 1. [Every Engineer have to read](https://www.java67.com/2015/03/10-books-every-programmer-and-software-engineer-read.html)
@@ -45,6 +48,7 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 13. [Less](http://lesscss.org/)
 14. [Top 50 Articles about CSS](https://medium.mybridge.co/learn-css-from-top-50-articles-for-the-past-year-v-2019-4570d9da53c)
 15. [CSS Top 10 Articles](https://techburst.io/css-top-10-articles-july-2018-cac669c26411)
+16. [CSS Grid Examples](http://grid.malven.co/)
 
 ## Java
 
@@ -99,7 +103,8 @@ Discord grubumuza katılmak istersenizde ; [tikla](https://discordapp.com/invite
 
 ## Web Templates
 
-1. [-](https://freshdesignweb.com/free-html5-css3-templates/)
+1. [freshdesignweb.com](https://freshdesignweb.com/free-html5-css3-templates/)
+2. [mashup-template.com](http://www.mashup-template.com/)
 
 ## Network
 
